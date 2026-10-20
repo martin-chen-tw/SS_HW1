@@ -1,0 +1,4 @@
+workload,requests_generated,requests_serviced,gc_executions,wl_executions,iops,latency_us
+synthetic_random_uniform_write,100000,99999,320,0,1132.633643,14066
+synthetic_hotcold_write,100000,100000,316,0,1146.136840,13959
+realistic_mds_0_trace_5pct,60551,60549,310,0,2.156298,9816
